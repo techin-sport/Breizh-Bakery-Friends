@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost/website/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/website/a-propos.php</loc>
+  </url>
+  <url>
+    <loc>http://localhost/website/nos-services.php</loc>
+  </url>
+  <url>
+    <loc>http://localhost/website/comment-%C3%A7a-marche.php</loc>
+  </url>
+  <url>
+    <loc>http://localhost/website/prestataires.php</loc>
+  </url>
+  <url>
+    <loc>http://localhost/website/contact.php</loc>
+  </url>
+</urlset>
